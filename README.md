@@ -7,9 +7,11 @@
 
 比赛地址：https://tianchi.aliyun.com/competition/entrance/231693/introduction  最终排名40/8182
 
-参考kernel: [1] https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.3f9274ffFRryTf&postId=60069
+参考kernel: 
 
-            [2] https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.3f9274ffVrt9fR&postId=41563
+[1] https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.3f9274ffFRryTf&postId=60069
+
+[2] https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.3f9274ffVrt9fR&postId=41563
             
-            [3] https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.3f9274ffVrt9fR&postId=62496
+[3] https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.3f9274ffVrt9fR&postId=62496
  
