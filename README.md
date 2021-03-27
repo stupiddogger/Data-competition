@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/37268836/112709873-d1089900-8ef7-11eb-8c3b-4660e43db4d3.png)
 
-比赛地址：https://tianchi.aliyun.com/competition/entrance/231693/introduction  最终排名40/8182
+比赛地址：https://tianchi.aliyun.com/competition/entrance/231693/introduction  最终排名40/8182（截至2021.3.27）
 
 参考kernel: 
 
